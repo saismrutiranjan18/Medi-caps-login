@@ -1,33 +1,38 @@
 .login-form {
   background: rgba(255, 255, 255, 0.5);
-  padding: 30px;
+  padding: 3rem; /* Increased padding */
   border-radius: 10px;
   text-align: center;
-  width: 300px;
-  margin: 0 auto; /* Center the form horizontally */
-  margin-left: 20px; /* Adjust this value to move it slightly to the right */
-  position: relative; /* Ensure positioning adjustments work properly */
+  width: 17rem; /* Increased width by 25% */
+  margin: 0 auto; 
+  margin-left: 4rem; 
+  position: relative; 
 }
 
 .form-logo {
-  width: 100px;
-  margin-bottom: 10px;
+  width: 9.4rem; /* Slightly enlarged logo */
+  margin-bottom: 4rem; /* More space below the logo */
 }
 
 .form-control {
-  width: 100%;
-  margin-bottom: 15px;
-  padding: 10px;
+  width: 80%;
+  margin-bottom: 20px; /* Increased space between inputs */
+  padding: 12px; /* Increased padding */
   border: 1px solid #ccc;
   border-radius: 5px;
 }
 
 button {
-  width: 100%;
+  width: 50%;
   background-color: #a01212;
   color: white;
   border: none;
-  padding: 10px;
+  padding: 12px; /* Increased padding */
   border-radius: 5px;
   cursor: pointer;
+}
+
+button:hover {
+  background-color: #d41414; /* Change background color on hover */
+  color: #fff; /* Ensure text color remains white */
 }
