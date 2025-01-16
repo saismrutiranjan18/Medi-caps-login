@@ -7,9 +7,9 @@
 
 .foreground-image {
     position: absolute; 
-    top: 15%;
+    top: 18%;
     left: auto;
-    right: 0; /* Align to the right side */
+    right: 5%; /* Align to the right side */
     margin-right: 0; /* Remove margin-right */
     width: 60%; /* Set smaller width */
     height: auto; /* Adjust height to maintain aspect ratio */
