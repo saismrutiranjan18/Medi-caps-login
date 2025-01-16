@@ -1,13 +1,19 @@
 .login-form {
   background: rgba(255, 255, 255, 0.3);
-  padding: 5rem; /* Increased padding */
+  padding: 3rem; /* Increased padding */
   border-radius: 10px;
   text-align: center;
-  width: 30%; /* Increased width by 25% */
+  width: 25%; /* Increased width by 25% */
   margin: 0 auto; 
   margin-left: 15rem; 
   margin-bottom: 4rem;
   position: relative; 
+}
+
+input {
+  width: 80%; /* Adjust the width as needed */
+  padding: 10px; /* Optional for better spacing */
+  font-size: 16px; /* Default input text size */
 }
 
 .form-logo {
