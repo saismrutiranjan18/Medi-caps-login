@@ -8,7 +8,7 @@ const LoginForm = () => {
         <input type="text" placeholder="Login name" className="form-control" />
         <input type="password" placeholder="Password" className="form-control" />
         <div class="button-container">
-    <button type="submit">Submit</button>
+    <button type="submit">Login {'>>'}</button>
   </div>
       </form>
     </div>

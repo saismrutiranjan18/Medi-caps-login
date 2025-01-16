@@ -1,11 +1,12 @@
 .login-form {
-  background: rgba(255, 255, 255, 0.5);
-  padding: 3rem; /* Increased padding */
+  background: rgba(255, 255, 255, 0.3);
+  padding: 5rem; /* Increased padding */
   border-radius: 10px;
   text-align: center;
   width: 17rem; /* Increased width by 25% */
   margin: 0 auto; 
-  margin-left: 4rem; 
+  margin-left: 15rem; 
+  margin-bottom: 4rem;
   position: relative; 
 }
 

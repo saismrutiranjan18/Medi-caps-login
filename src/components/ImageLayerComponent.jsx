@@ -11,4 +11,3 @@ const ImageLayerComponent = ({ children }) => {
 
 export default ImageLayerComponent;
 
-  

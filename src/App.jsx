@@ -2,7 +2,7 @@ import Header from './components/Header';
 import Background from './components/Background';
 import LoginForm from './components/LoginForm';
 import Footer from './components/Footer';
-import ImageLayerComponent from './components/ImageLayerComponent';
+ import ImageLayerComponent from './components/ImageLayerComponent'; 
 import './styles/App.css';
 
 function App() {
@@ -12,7 +12,7 @@ function App() {
       <Background>
          
         <LoginForm />
-        < ImageLayerComponent />
+        < ImageLayerComponent /> 
       </Background>
       <Footer />
     </div>

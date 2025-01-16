@@ -7,10 +7,12 @@
 
 .foreground-image {
     position: absolute; 
-    top: 0;
-    left: 30%;
-    width: 678px;
-    height: 697px;
+    top: 15%;
+    left: auto;
+    right: 0; /* Align to the right side */
+    margin-right: 0; /* Remove margin-right */
+    width: 60%; /* Set smaller width */
+    height: auto; /* Adjust height to maintain aspect ratio */
     object-fit: cover; 
     z-index: -1;       
 }
